@@ -1,4 +1,4 @@
-# Jon Caballero San Emeterio: Extensions to Principal Component Analysis (PCA)
+# Extensions to Principal Component Analysis (PCA)
 This repository provides several R scrits with simulations and applications to real data related to Principal Component Analysis (PCA) and two extensions: Sparse PCA (SPCA) and Dynamic PCA (DPCA). 
 This repository is part of my Bachelor Thesis, also available.
 # Repository structure
