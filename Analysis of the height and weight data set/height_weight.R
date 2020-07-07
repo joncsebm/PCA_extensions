@@ -1,5 +1,5 @@
 # Load data
-height_weight <- read.csv("height_weight.csv", sep = ";")
+height_weight <- read.csv("height_weight.csv", sep = ",")
 names(height_weight) <- c("Height", "Weight")
 n <- length(height_weight$Height)
 
