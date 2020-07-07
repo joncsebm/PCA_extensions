@@ -1,5 +1,5 @@
 # Extensions to Principal Component Analysis (PCA)
-This repository provides several R scrits with simulations and applications to real data related to Principal Component Analysis (PCA) and two extensions: Sparse PCA (SPCA) and Dynamic PCA (DPCA). 
+This repository provides several R scripts with simulations and applications to real data related to Principal Component Analysis (PCA) and two extensions: Sparse PCA (SPCA) and Dynamic PCA (DPCA). 
 This repository is part of my Bachelor Thesis, also available.
 # Repository structure
 The repository is divided in folders. These folders contain different R scripts grouped by convenience. The folder names are descriptive and, if needed, the data sets used for each script are provided.
