@@ -1,66 +1,66 @@
-﻿2017;N2O - Óxido nitroso (miles de toneladas de CO2 equivalente);HFC - Hidrofluorocarbonos o compuestos hidrogenofluorcarbonados (miles de toneladas de CO2 equivalente);PFC - Perfluorocarbonos o compuestos polifluorcarbonados (miles de toneladas de CO2 equivalente);SF6 - Hexafluoruro de azufre (miles de toneladas de CO2 equivalente);CH4 - Metano (miles de toneladas de CO2 equivalente);CO2 - Dióxido de carbono (miles de toneladas de CO2 equivalente);PM2.5 - Partículas de diámetro menor o igual a 2.5 µm (toneladas);PM10 - Partículas de diámetro menor o igual a 10 µm (toneladas);CO - Monóxido de carbono (toneladas);COVNM - Compuestos orgánicos volátiles no metánicos (toneladas);NH3 - Amoniaco (toneladas);SO2 - Dióxido de azufre (toneladas);NOx - Óxidos de nitrógeno (toneladas de NO2 equivalentes);CH4 - Metano (toneladas);N2O - Óxido nitroso (toneladas);CO2 - Dióxido de carbono (miles de toneladas)
-01: Agricultura. ganadería caza y servicios relacionados con la misma;14435.5;22.3;0;0;20803.4;10050.5;14234.6;63469.4;137714.1;149899.5;472211.2;1177.2;131543;990638.5;46566;10050.5
-02: Selvicultura y explotación forestal;1;1;0;0;1.1;98.8;35.2;35.3;3884.1;634.3;0.2;17.3;322.9;52.5;3.4;98.8
-03: Pesca y acuicultura;20.7;0;0;0;11.1;2742.6;1264.5;1336.7;6426.6;2485.9;5.1;1684.3;59928.8;527.2;66.8;2742.6
-05-09: Industrias extractivas;14.8;9.2;0;0;123;1689.8;1009.1;4484.3;2047.5;1575.5;118.9;518.4;2362.4;5859.1;47.7;1689.8
-10-12: Industrias de la alimentación. fabricación de bebidas e industria del tabaco;18;521.8;0.5;0;568.6;2980;1341.2;1445.9;1547.5;59543;326.7;2261.5;2724.5;27078;58.2;2980
-13-15: Industria textil. confección de prendas de vestir e industria del cuero y del calzado;6.2;77.9;0.1;0;25.5;676.8;340.4;367.1;366.5;2518.5;99.1;375;485.2;1215.9;20.1;676.8
-16: Industria de la madera y el corcho;12.3;57.8;0.1;0;49.9;1352.1;666.2;718.3;730.2;14145.7;189.8;732.2;978.7;2373.9;39.6;1352.1
-17: Industria del papel;23.4;231.6;0.2;0;175.9;2289.5;1763.7;2125.8;10200.6;8035.7;129.6;3658.2;4512.4;8375.3;75.5;2289.5
-18: Artes gráficas y reproducción de soportes grabados;1.1;40.5;0;0;4.3;168;41.5;44.7;63.4;27692.8;7.1;10.1;149.9;202.4;3.7;168
-19: Coquerías y refino de petróleo;9;178.3;0.2;0;41.3;15865;782.3;1272.7;11978.9;19893.1;128;29549.7;22617.5;1965.4;29.1;15865
-20: Industria química;424.5;408;0.4;0;634.9;8242.3;4791.6;6365.5;12695.9;27298;33700.5;8224;4988.3;30234.6;1369.5;8242.3
-21: Fabricación de productos farmacéuticos;1.5;49.6;0;0;225.2;401.1;27.9;29.8;108.1;4581;2.6;281.8;366.7;10725.5;5;401.1
-22: Fabricación de productos de caucho y plástico;5.9;279.6;0.3;0;23;642.9;311;335.1;374;54931.7;97.5;337.6;528.7;1094.5;19;642.9
-23: Fabricación de otros productos minerales no metálicos;64.8;277.7;0.3;0;48.2;28951.4;2080.6;2949.7;51826;4049.1;249.8;29087.8;74532.4;2293.2;209.2;28951.4
-24: Metalurgia. fabricación de productos de hierro. acero y ferroaleaciones;14.6;1070.5;109.7;0;50.3;12179.1;2560.5;3887.9;396010;22436.8;42.6;28545.6;17562.4;2394.8;47;12179.1
-25: Fabricación de productos metálicos. excepto maquinaria y equipo;1.4;122.2;0.1;0;0.9;447.7;75.6;80.5;1790.4;4831;5;595.9;704.5;40.8;4.5;447.7
-26: Fabricación de productos informáticos. electrónicos y ópticos;0.9;9.5;0;0;0.6;75;21.2;21.8;132.4;2141.4;2.6;8.6;275.7;27.4;2.8;75
-27: Fabricación de material y material eléctrico;6.5;52.2;0;0;12;598.1;226.2;238.7;777.3;5817.2;47.7;177.4;1518.3;572.4;21.1;598.1
-28: Fabricación de maquinaria y equipo n.c.o.p.;6.2;39.7;0;0;11.2;570.3;212.3;224;734.2;8880.1;44.3;165.9;1435;535.5;19.9;570.3
-29: Fabricación de vehículos de motor. remolques y semirremolques;7.9;165.1;0.2;0;9.1;705.8;225.4;234.8;1082;19534.4;41.6;135.4;2201;435;25.5;705.8
-30: Fabricación de otro material de transporte;2.2;32.2;0;0;1.8;191.8;56.2;58;320.9;5992.1;8.3;27;662.4;86.1;7.1;191.8
-31-32: Fabricación de muebles. otras industrias manufactureras;0.4;38.6;0;0;0;27.9;6.7;6.7;61.2;278.1;1.6;0.2;130.4;0.3;1.2;27.9
-33: Reparación e instalación de maquinaria y equipo;0.5;0;0;0;0;34.7;8.5;8.5;77.8;15.1;0.1;0.2;165.3;0.4;1.5;34.7
-35: Suministro de energía eléctrica. gas. vapor y aire acondicionado;560.6;163.2;0.2;233.4;652.4;66622.4;4708.4;6296.1;26378.3;11078.9;1251;94498;122280.8;31064.4;1808.4;66622.4
-36: Captación. depuración  y distribución de agua;0.8;0;0;0;0;60.7;14.6;14.6;136;26.1;0.3;0.4;285.4;0.7;2.6;60.7
-37-39: Actividades de saneamiento. gestión de residuos y descontaminación;1332.7;0;0;0;9228.9;1633.4;59.6;61.1;882.4;4844.9;1866.1;168.4;2386.9;439472.8;4299;1633.4
-41-43: Construcción;5.8;193.9;0;0;1;483.6;364.9;2674.8;949;21429.2;4.6;16.3;2008.4;48.6;18.7;483.6
-45: Venta y reparación de vehículos de motor y motocicletas;0.8;192.1;0.2;0;4.8;478.2;93.8;113.4;727.8;4772.6;0.2;331.3;479.4;228.5;2.7;478.2
-46: Comercio al por mayor e intermediarios del comercio;4.4;517.6;0.5;0;26.5;2564.8;516.6;624.6;3976.4;677.7;0.3;1829.1;2594.6;1260.7;14.3;2564.8
-47: Comercio al por menor;3.6;845.9;0.8;0;22;2129;429.4;519.3;3297.7;4364.2;0;1521.4;2145.9;1048.5;11.8;2129
-49: Transporte terrestre y por tubería;405.4;102.9;0.1;0;16.8;30563.4;2460.8;3048.6;35563.3;2628.1;257;153.8;113678;801;1307.9;30563.4
-50: Transporte marítimo y por vías navegables interiores;25;0.8;0;0;5.9;3047.9;3482.2;3832.7;7130.7;2640.1;7.3;16171.4;75779.1;280.8;80.5;3047.9
-51: Transporte aéreo;127.6;0.9;0;0;2.4;15134;656.1;656.1;16612.5;1943.2;2.9;4015.6;71237.7;115.3;411.6;15134
-52: Almacenamiento y actividades anexas a los transportes;7.5;9.3;0;0;1.7;642.2;76.3;330.7;807.5;69.5;4.4;99.9;1831.4;82.3;24.1;642.2
-53: Actividades postales y de correos;0.2;2.7;0;0;0.9;90.4;18.2;22;140.5;23.9;0;64.2;92.2;44.3;0.5;90.4
-55-56: Servicios de alojamiento servicios de comida y bebida;1;20.5;0;0;5.9;574.8;115.6;139.8;892;151.9;0.1;409.1;583.7;282;3.2;574.8
-58: Edición;0.1;2.6;0;0;0.3;31.4;6.3;7.7;48.6;8.3;0;22.4;31.6;15.5;0.2;31.4
-59-60: Actividades cinematográficas. de video y programas de televisión. grabación de sonido y edición musical actividades de programación y emisión de radio y telivisión;0.2;5.2;0;0;1.1;103.8;20.9;25.2;161.1;27.4;0;73.8;105.5;50.9;0.6;103.8
-61: Telecomunicaciones;0.2;9.2;0;0;1.3;128.9;25.9;31.4;200;34.1;0;91.8;130.8;63.3;0.7;128.9
-62-63: Programación. consultoría y otros actividades relacionadas con la informática servicios de información;0.4;4;0;0;2.7;260.1;52.5;63.5;402.9;68.7;0;185.9;262.1;128.1;1.4;260.1
-64: Servicios financieros. excepto seguros y fondos de pensiones;0.2;6.3;0;0;0.9;89.4;18;21.7;138.7;23.6;0;63.5;90.9;43.8;0.5;89.4
-65: Seguros. reaseguros y fondos de pensiones. excepto seguridad social obligatoria;0.1;2.2;0;0;0.3;27.9;5.6;6.8;43.4;7.4;0;19.7;28.6;13.6;0.2;27.9
-66: Actividades auxiliares a los servicios financieros y a los seguros;0.3;1.6;0;0;1.5;143.2;28.7;34.7;222.5;37.9;0;101.6;146.2;70;0.8;143.2
-68: Actividades inmobiliarias;0.1;12.2;0;0;0.6;53.4;10.7;13;82.7;14.1;0;38.1;54;26.2;0.3;53.4
-69-70: Actividades jurídicas y de contabilidad actividades de las sedes centrales actividades de consultoría de gestión empresarial;0.3;6.8;0;0;1.8;178.9;36.1;43.6;277.2;47.3;0;127.8;180.5;88.1;1;178.9
-71: Servicios técnicos de arquitectura e ingeniería ensayos y análisis técnicos;0.3;3.9;0;0;1.5;150;30.2;36.5;232.7;39.6;0;106.9;151.9;73.7;0.8;150
-72: Investigación y desarrollo;0.1;1.8;0;0;0.8;81;16.2;19.6;125.9;21.4;0;57.3;83;39.5;0.5;81
-73: Publicidad y estudios de mercado;0.1;2.1;0;0;0.4;40.4;8.1;9.8;62.7;10.7;0;28.8;40.8;19.9;0.2;40.4
-74-75: Otras actividades profesionales. científicas y técnicas actividades veterinarias;0.1;1.7;0;0;0.3;29.8;6;7.3;46.1;7.9;0;21.3;30.1;14.6;0.2;29.8
-77: Actividades de alquiler;0.1;2.2;0;0;0.4;40.1;8;9.7;62.3;10.6;0;28.4;41;19.6;0.2;40.1
-78: Actividades relacionadas con el empleo;0;1.2;0;0;0.1;4.9;1;1.2;7.6;1.3;0;3.5;5;2.4;0;4.9
-79: Actividades de agencias de viajes. operadores turísticos. servicios de reservas y actividades relacionadas con los mismos;0.1;1.2;0;0;0.4;34.6;6.9;8.4;53.9;9.2;0;24.4;35.6;16.8;0.2;34.6
-80-82: Actividades de seguridad e investigación servicios a edificios y actividades de jardinería actividades administrativas de oficina y otras actividades auxiliares a las empresas;0.2;4.9;0;0;1.4;134.3;27;32.7;208.2;35.5;0;95.7;135.9;66;0.7;134.3
-84: Administración pública y defensa seguridad social obligatoria;21.4;24.7;0;0;11.7;2662.1;309.3;357.6;4341.6;525.2;15.9;905.2;8007.4;557.2;69;2662.1
-85: Educación;3.1;18.6;0;0;6.6;784.2;133.9;160.1;1411.4;223.6;3.6;444.4;1131.6;313.7;10;784.2
-86: Actividades sanitarias;354;19.4;0;3;6.9;723.7;136.4;164.3;1096.3;179.1;0.5;472.9;885.2;327.4;1141.9;723.7
-87-88: Actividades de servicios sociales;0.8;7.2;0;0;4.9;475.6;95.4;115.3;739.6;125.8;0.2;336.9;487;232.3;2.7;475.6
-90-92: Actividades de creación. artísticas y de espectáculos actividades  de bibliotecas. archivos. museos y otras actividades culturales juegos de azar y apuestas;0;5.7;0;0;0.3;25;5;6.1;38.8;6.6;0;17.9;25.3;12.3;0.1;25
-93: Actividades deportivas. recreativas y de entretenimiento;0.1;4.9;0;0;0.3;33.5;214.2;407.3;80.4;8.8;0;36;34.8;16.5;0.2;33.5
-94: Actividades asociativas;3.3;3.5;0;0;1.6;389.5;43.1;48.8;579.2;70.4;4.6;99.1;1019.9;74.8;10.7;389.5
-95: Reparación de ordenadores. efectos personales y artículos de uso doméstico;0;0.7;0;0;0.2;15.8;3.2;3.9;24.5;4.2;0;11.3;16;7.8;0.1;15.8
-96: Otras actividades personales;0.2;4.7;0;0;0.9;92.1;24.2;28;140.1;692.3;0;83.8;233.6;44.5;0.5;92.1
-97-98: Actividades de los hogares como  empleadores de personal doméstico o como productores de bienes y servicios para uso propio;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
-Total ramas de actividad;17940.4;5893.6;114.1;236.5;32839.7;221739.5;46352.1;109738.9;749271.9;504101.4;510879.1;230348.8;739473.9;1563797;57872.1;221739.5
-h: Hogares;658.2;1357.5;0.9;0;775;67227.1;60900.5;65663.9;586956.6;125187.6;9954.1;10200.8;163834.3;36903.4;2123.3;67227.1
+﻿2017,N2O - Óxido nitroso (miles de toneladas de CO2 equivalente),HFC - Hidrofluorocarbonos o compuestos hidrogenofluorcarbonados (miles de toneladas de CO2 equivalente),PFC - Perfluorocarbonos o compuestos polifluorcarbonados (miles de toneladas de CO2 equivalente),SF6 - Hexafluoruro de azufre (miles de toneladas de CO2 equivalente),CH4 - Metano (miles de toneladas de CO2 equivalente),CO2 - Dióxido de carbono (miles de toneladas de CO2 equivalente),PM2.5 - Partículas de diámetro menor o igual a 2.5 µm (toneladas),PM10 - Partículas de diámetro menor o igual a 10 µm (toneladas),CO - Monóxido de carbono (toneladas),COVNM - Compuestos orgánicos volátiles no metánicos (toneladas),NH3 - Amoniaco (toneladas),SO2 - Dióxido de azufre (toneladas),NOx - Óxidos de nitrógeno (toneladas de NO2 equivalentes),CH4 - Metano (toneladas),N2O - Óxido nitroso (toneladas),CO2 - Dióxido de carbono (miles de toneladas)
+01: Agricultura. ganadería caza y servicios relacionados con la misma,14435.5,22.3,0,0,20803.4,10050.5,14234.6,63469.4,137714.1,149899.5,472211.2,1177.2,131543,990638.5,46566,10050.5
+02: Selvicultura y explotación forestal,1,1,0,0,1.1,98.8,35.2,35.3,3884.1,634.3,0.2,17.3,322.9,52.5,3.4,98.8
+03: Pesca y acuicultura,20.7,0,0,0,11.1,2742.6,1264.5,1336.7,6426.6,2485.9,5.1,1684.3,59928.8,527.2,66.8,2742.6
+05-09: Industrias extractivas,14.8,9.2,0,0,123,1689.8,1009.1,4484.3,2047.5,1575.5,118.9,518.4,2362.4,5859.1,47.7,1689.8
+10-12: Industrias de la alimentación. fabricación de bebidas e industria del tabaco,18,521.8,0.5,0,568.6,2980,1341.2,1445.9,1547.5,59543,326.7,2261.5,2724.5,27078,58.2,2980
+13-15: Industria textil. confección de prendas de vestir e industria del cuero y del calzado,6.2,77.9,0.1,0,25.5,676.8,340.4,367.1,366.5,2518.5,99.1,375,485.2,1215.9,20.1,676.8
+16: Industria de la madera y el corcho,12.3,57.8,0.1,0,49.9,1352.1,666.2,718.3,730.2,14145.7,189.8,732.2,978.7,2373.9,39.6,1352.1
+17: Industria del papel,23.4,231.6,0.2,0,175.9,2289.5,1763.7,2125.8,10200.6,8035.7,129.6,3658.2,4512.4,8375.3,75.5,2289.5
+18: Artes gráficas y reproducción de soportes grabados,1.1,40.5,0,0,4.3,168,41.5,44.7,63.4,27692.8,7.1,10.1,149.9,202.4,3.7,168
+19: Coquerías y refino de petróleo,9,178.3,0.2,0,41.3,15865,782.3,1272.7,11978.9,19893.1,128,29549.7,22617.5,1965.4,29.1,15865
+20: Industria química,424.5,408,0.4,0,634.9,8242.3,4791.6,6365.5,12695.9,27298,33700.5,8224,4988.3,30234.6,1369.5,8242.3
+21: Fabricación de productos farmacéuticos,1.5,49.6,0,0,225.2,401.1,27.9,29.8,108.1,4581,2.6,281.8,366.7,10725.5,5,401.1
+22: Fabricación de productos de caucho y plástico,5.9,279.6,0.3,0,23,642.9,311,335.1,374,54931.7,97.5,337.6,528.7,1094.5,19,642.9
+23: Fabricación de otros productos minerales no metálicos,64.8,277.7,0.3,0,48.2,28951.4,2080.6,2949.7,51826,4049.1,249.8,29087.8,74532.4,2293.2,209.2,28951.4
+24: Metalurgia. fabricación de productos de hierro. acero y ferroaleaciones,14.6,1070.5,109.7,0,50.3,12179.1,2560.5,3887.9,396010,22436.8,42.6,28545.6,17562.4,2394.8,47,12179.1
+25: Fabricación de productos metálicos. excepto maquinaria y equipo,1.4,122.2,0.1,0,0.9,447.7,75.6,80.5,1790.4,4831,5,595.9,704.5,40.8,4.5,447.7
+26: Fabricación de productos informáticos. electrónicos y ópticos,0.9,9.5,0,0,0.6,75,21.2,21.8,132.4,2141.4,2.6,8.6,275.7,27.4,2.8,75
+27: Fabricación de material y material eléctrico,6.5,52.2,0,0,12,598.1,226.2,238.7,777.3,5817.2,47.7,177.4,1518.3,572.4,21.1,598.1
+28: Fabricación de maquinaria y equipo n.c.o.p.,6.2,39.7,0,0,11.2,570.3,212.3,224,734.2,8880.1,44.3,165.9,1435,535.5,19.9,570.3
+29: Fabricación de vehículos de motor. remolques y semirremolques,7.9,165.1,0.2,0,9.1,705.8,225.4,234.8,1082,19534.4,41.6,135.4,2201,435,25.5,705.8
+30: Fabricación de otro material de transporte,2.2,32.2,0,0,1.8,191.8,56.2,58,320.9,5992.1,8.3,27,662.4,86.1,7.1,191.8
+31-32: Fabricación de muebles. otras industrias manufactureras,0.4,38.6,0,0,0,27.9,6.7,6.7,61.2,278.1,1.6,0.2,130.4,0.3,1.2,27.9
+33: Reparación e instalación de maquinaria y equipo,0.5,0,0,0,0,34.7,8.5,8.5,77.8,15.1,0.1,0.2,165.3,0.4,1.5,34.7
+35: Suministro de energía eléctrica. gas. vapor y aire acondicionado,560.6,163.2,0.2,233.4,652.4,66622.4,4708.4,6296.1,26378.3,11078.9,1251,94498,122280.8,31064.4,1808.4,66622.4
+36: Captación. depuración  y distribución de agua,0.8,0,0,0,0,60.7,14.6,14.6,136,26.1,0.3,0.4,285.4,0.7,2.6,60.7
+37-39: Actividades de saneamiento. gestión de residuos y descontaminación,1332.7,0,0,0,9228.9,1633.4,59.6,61.1,882.4,4844.9,1866.1,168.4,2386.9,439472.8,4299,1633.4
+41-43: Construcción,5.8,193.9,0,0,1,483.6,364.9,2674.8,949,21429.2,4.6,16.3,2008.4,48.6,18.7,483.6
+45: Venta y reparación de vehículos de motor y motocicletas,0.8,192.1,0.2,0,4.8,478.2,93.8,113.4,727.8,4772.6,0.2,331.3,479.4,228.5,2.7,478.2
+46: Comercio al por mayor e intermediarios del comercio,4.4,517.6,0.5,0,26.5,2564.8,516.6,624.6,3976.4,677.7,0.3,1829.1,2594.6,1260.7,14.3,2564.8
+47: Comercio al por menor,3.6,845.9,0.8,0,22,2129,429.4,519.3,3297.7,4364.2,0,1521.4,2145.9,1048.5,11.8,2129
+49: Transporte terrestre y por tubería,405.4,102.9,0.1,0,16.8,30563.4,2460.8,3048.6,35563.3,2628.1,257,153.8,113678,801,1307.9,30563.4
+50: Transporte marítimo y por vías navegables interiores,25,0.8,0,0,5.9,3047.9,3482.2,3832.7,7130.7,2640.1,7.3,16171.4,75779.1,280.8,80.5,3047.9
+51: Transporte aéreo,127.6,0.9,0,0,2.4,15134,656.1,656.1,16612.5,1943.2,2.9,4015.6,71237.7,115.3,411.6,15134
+52: Almacenamiento y actividades anexas a los transportes,7.5,9.3,0,0,1.7,642.2,76.3,330.7,807.5,69.5,4.4,99.9,1831.4,82.3,24.1,642.2
+53: Actividades postales y de correos,0.2,2.7,0,0,0.9,90.4,18.2,22,140.5,23.9,0,64.2,92.2,44.3,0.5,90.4
+55-56: Servicios de alojamiento servicios de comida y bebida,1,20.5,0,0,5.9,574.8,115.6,139.8,892,151.9,0.1,409.1,583.7,282,3.2,574.8
+58: Edición,0.1,2.6,0,0,0.3,31.4,6.3,7.7,48.6,8.3,0,22.4,31.6,15.5,0.2,31.4
+59-60: Actividades cinematográficas. de video y programas de televisión. grabación de sonido y edición musical actividades de programación y emisión de radio y telivisión,0.2,5.2,0,0,1.1,103.8,20.9,25.2,161.1,27.4,0,73.8,105.5,50.9,0.6,103.8
+61: Telecomunicaciones,0.2,9.2,0,0,1.3,128.9,25.9,31.4,200,34.1,0,91.8,130.8,63.3,0.7,128.9
+62-63: Programación. consultoría y otros actividades relacionadas con la informática servicios de información,0.4,4,0,0,2.7,260.1,52.5,63.5,402.9,68.7,0,185.9,262.1,128.1,1.4,260.1
+64: Servicios financieros. excepto seguros y fondos de pensiones,0.2,6.3,0,0,0.9,89.4,18,21.7,138.7,23.6,0,63.5,90.9,43.8,0.5,89.4
+65: Seguros. reaseguros y fondos de pensiones. excepto seguridad social obligatoria,0.1,2.2,0,0,0.3,27.9,5.6,6.8,43.4,7.4,0,19.7,28.6,13.6,0.2,27.9
+66: Actividades auxiliares a los servicios financieros y a los seguros,0.3,1.6,0,0,1.5,143.2,28.7,34.7,222.5,37.9,0,101.6,146.2,70,0.8,143.2
+68: Actividades inmobiliarias,0.1,12.2,0,0,0.6,53.4,10.7,13,82.7,14.1,0,38.1,54,26.2,0.3,53.4
+69-70: Actividades jurídicas y de contabilidad actividades de las sedes centrales actividades de consultoría de gestión empresarial,0.3,6.8,0,0,1.8,178.9,36.1,43.6,277.2,47.3,0,127.8,180.5,88.1,1,178.9
+71: Servicios técnicos de arquitectura e ingeniería ensayos y análisis técnicos,0.3,3.9,0,0,1.5,150,30.2,36.5,232.7,39.6,0,106.9,151.9,73.7,0.8,150
+72: Investigación y desarrollo,0.1,1.8,0,0,0.8,81,16.2,19.6,125.9,21.4,0,57.3,83,39.5,0.5,81
+73: Publicidad y estudios de mercado,0.1,2.1,0,0,0.4,40.4,8.1,9.8,62.7,10.7,0,28.8,40.8,19.9,0.2,40.4
+74-75: Otras actividades profesionales. científicas y técnicas actividades veterinarias,0.1,1.7,0,0,0.3,29.8,6,7.3,46.1,7.9,0,21.3,30.1,14.6,0.2,29.8
+77: Actividades de alquiler,0.1,2.2,0,0,0.4,40.1,8,9.7,62.3,10.6,0,28.4,41,19.6,0.2,40.1
+78: Actividades relacionadas con el empleo,0,1.2,0,0,0.1,4.9,1,1.2,7.6,1.3,0,3.5,5,2.4,0,4.9
+79: Actividades de agencias de viajes. operadores turísticos. servicios de reservas y actividades relacionadas con los mismos,0.1,1.2,0,0,0.4,34.6,6.9,8.4,53.9,9.2,0,24.4,35.6,16.8,0.2,34.6
+80-82: Actividades de seguridad e investigación servicios a edificios y actividades de jardinería actividades administrativas de oficina y otras actividades auxiliares a las empresas,0.2,4.9,0,0,1.4,134.3,27,32.7,208.2,35.5,0,95.7,135.9,66,0.7,134.3
+84: Administración pública y defensa seguridad social obligatoria,21.4,24.7,0,0,11.7,2662.1,309.3,357.6,4341.6,525.2,15.9,905.2,8007.4,557.2,69,2662.1
+85: Educación,3.1,18.6,0,0,6.6,784.2,133.9,160.1,1411.4,223.6,3.6,444.4,1131.6,313.7,10,784.2
+86: Actividades sanitarias,354,19.4,0,3,6.9,723.7,136.4,164.3,1096.3,179.1,0.5,472.9,885.2,327.4,1141.9,723.7
+87-88: Actividades de servicios sociales,0.8,7.2,0,0,4.9,475.6,95.4,115.3,739.6,125.8,0.2,336.9,487,232.3,2.7,475.6
+90-92: Actividades de creación. artísticas y de espectáculos actividades  de bibliotecas. archivos. museos y otras actividades culturales juegos de azar y apuestas,0,5.7,0,0,0.3,25,5,6.1,38.8,6.6,0,17.9,25.3,12.3,0.1,25
+93: Actividades deportivas. recreativas y de entretenimiento,0.1,4.9,0,0,0.3,33.5,214.2,407.3,80.4,8.8,0,36,34.8,16.5,0.2,33.5
+94: Actividades asociativas,3.3,3.5,0,0,1.6,389.5,43.1,48.8,579.2,70.4,4.6,99.1,1019.9,74.8,10.7,389.5
+95: Reparación de ordenadores. efectos personales y artículos de uso doméstico,0,0.7,0,0,0.2,15.8,3.2,3.9,24.5,4.2,0,11.3,16,7.8,0.1,15.8
+96: Otras actividades personales,0.2,4.7,0,0,0.9,92.1,24.2,28,140.1,692.3,0,83.8,233.6,44.5,0.5,92.1
+97-98: Actividades de los hogares como  empleadores de personal doméstico o como productores de bienes y servicios para uso propio,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Total ramas de actividad,17940.4,5893.6,114.1,236.5,32839.7,221739.5,46352.1,109738.9,749271.9,504101.4,510879.1,230348.8,739473.9,1563797,57872.1,221739.5
+h: Hogares,658.2,1357.5,0.9,0,775,67227.1,60900.5,65663.9,586956.6,125187.6,9954.1,10200.8,163834.3,36903.4,2123.3,67227.1
