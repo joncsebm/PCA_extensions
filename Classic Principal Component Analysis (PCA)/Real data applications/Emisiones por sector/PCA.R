@@ -1,6 +1,6 @@
 # Load data
 
-X <- read.csv("INE_emisiones_sector.csv", sep = ";")
+X <- read.csv("INE_emisiones_sector.csv", sep = ",")
 rownames(X) <- X[, 1]
 X <- X[, -1]
 
