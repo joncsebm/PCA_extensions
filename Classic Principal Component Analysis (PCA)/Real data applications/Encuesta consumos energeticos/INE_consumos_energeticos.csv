@@ -1,123 +1,123 @@
-﻿2017;Electricidad;Gas;Gasóleo;Fueloil;Otros productos petrolíferos;Carbón y coque;Biocombustibles;Calor y otros consumos energéticos
-    B Industrias extractivas;119484;31896;78123;1408;1836;6113;410;190
-    05 Extracción de antracita. hulla y lignito;9945;9069;6554;0;16;0;0;0
-    06 Extracción de crudo de petróleo y gas natural;2855;0;0;0;0;0;0;0
-    061 Extracción de crudo de petróleo;2855;0;0;0;0;0;0;0
-    07 Extracción de minerales metálicos;36569;1207;6604;0;106;6113;0;86
-    08 Otras industrias extractivas;70080;21611;60281;1408;755;0;410;103
-    081 Extracción de piedra. arena y arcilla;27119;6650;41174;1408;444;0;0;14
-    089 Industrias extractivas n.c.o.p.;42961;14961;19107;0;311;0;410;89
-    09 Actividades de apoyo a las industrias extractivas;36;9;4684;0;959;0;0;0
-    C Industria manufacturera;6107975;2949778;509048;84570;105026;145410;27500;353573
-    10 Alimentación (CNAE 10);963764;432274;164720;14613;12889;73;6211;19119
-    101 Industria cárnica (CNAE 10.1);249783;56530;52987;1365;3930;43;1281;9866
-    102 Industria del pescado (CNAE 10.2);46549;7220;6223;3569;1458;0;376;927
-    103 Preparación y conservación de frutas y hortalizas (CNAE 10.3);117643;68121;14444;243;580;0;2320;2230
-    104 Aceites y grasas (CNAE 10.4);54611;38918;4776;3615;883;0;0;150
-    105 Productos lácteos (CNAE 10.5);103556;57096;16335;2237;1125;20;804;1886
-    106 Molinerías. almidones y productos amiláceos (CNAE 10.6);50575;27706;6026;261;132;0;207;67
-    107 Panadería y pastas alimenticias (CNAE 10.7);140379;37635;31914;225;626;0;516;503
-    108 Fabricación de otros productos alimenticios;121818;92754;12495;862;2755;0;541;3409
-    109 Comida para animales (CNAE 10.9);78849;46294;19520;2236;1399;11;165;81
-    11 Fabricación de bebidas;129331;52084;15076;20149;3148;0;482;983
-    110 Fabricación de bebidas;129331;52084;15076;20149;3148;0;482;983
-    12 Industria del tabaco (CNAE 12);2753;213;84;408;145;0;0;0
-    120 Industria del tabaco;2753;213;84;408;145;0;0;0
-    13 Industria textil;95124;41427;7802;449;582;0;136;93
-    131 Preparación e hilado de fibras textiles (CNAE 13.1);25228;2855;1602;86;90;0;128;2
-    132 Fabricación de tejidos textiles (CNAE 13.2);13657;5079;346;59;226;0;7;0
-    133 Acabado de textiles (CNAE 13.3);18083;26343;813;60;48;0;0;0
-    139 Fabricación de otros productos textiles;38156;7150;5041;244;218;0;0;91
-    14 Confección de prendas de vestir;16251;1440;3244;0;73;0;0;7
-    141 Confección de prendas de vestir (CNAE 14.1);12260;305;2895;0;58;0;0;0
-    143 Confección de prendas de vestir de punto (CNAE 14.3);3991;1136;350;0;15;0;0;7
-    15 Industria del cuero y del calzado;19343;5396;4274;427;226;0;3;0
-    151 Fabricación de cuero. pieles y productos elaborados con éstos (CNAE 15.1);9058;4448;610;427;61;0;3;0
-    152 Fabricación de calzado (CNAE 15.2);10286;949;3664;0;165;0;0;0
-    16 Madera y corcho (CNAE 16);111389;10328;22203;8314;667;0;5324;548
-    161 Aserrado y cepillado de la madera;9486;7;6225;458;66;0;13;0
-    162 Fabricación de productos de madera. corcho. cestería y espartería;101903;10320;15978;7856;600;0;5311;548
-    17 Industria del papel;422116;157615;19575;8891;888;277;5084;5880
-    171 Fabricación de pasta papelera. papel y cartón (CNAE 17.1);259834;92111;3570;7775;79;0;4790;5768
-    172 Fabricación de artículos de papel y cartón (CNAE 17.2);162282;65504;16006;1116;809;277;294;112
-    18 Artes gráficas y reproducción de soportes grabados (CNAE 18);66292;11577;5012;45;513;0;0;0
-    181 Artes gráficas y servicios relacionados con las mismas;65561;11577;5012;45;513;0;0;0
-    182 Reproducción de soportes grabados;732;0;0;0;0;0;0;0
-    19 Coquerías y refino de petróleo;278703;412349;589;0;3;0;0;93683
-    20 Industria química (CNAE 20);879340;591474;39504;3576;42936;22144;332;130049
-    201 Fabricación de productos químicos básicos (CNAE 20.1);725734;485432;17864;3240;35483;22135;332;121746
-    202 Fabricación de pesticidas y otros productos agroquímicos (CNAE 20.2);4106;1029;687;1;218;10;0;41
-    203 Pinturas. barnices. tintas de imprenta y masillas (CNAE 20.3);43699;42748;3234;316;1881;0;0;6467
-    204 Artículos de limpieza y abrillantamiento. perfumes y cosméticos (CNAE 20.4);38055;13989;6935;17;5168;0;0;306
-    205 Fabricación de otros productos químicos (CNAE 20.5);50135;35204;10701;0;187;0;0;883
-    206 Fabricación de fibras artificiales y sintéticas (CNAE 20.6);17610;13072;83;0;0;0;0;606
-    21 Industria farmacéutica (CNAE 21);99010;29609;8915;3463;1295;0;12;2645
-    211 Fabricación de productos farmacéuticos de base (CNAE 21.1);33082;13059;2457;2340;56;0;0;2276
-    212 Fabricación de especialidades farmacéuticas (CNAE 21.2);65928;16549;6458;1123;1240;0;12;370
-    22 Caucho y materias plásticas (CNAE 22);387493;61751;15403;1525;5724;0;798;14107
-    221 Fabricación de productos de caucho (CNAE 22.1);78152;13334;2421;783;2677;0;214;12917
-    222 Fabricación de productos de plástico (CNAE 22.2);309342;48417;12982;742;3047;0;584;1190
-    23 Productos minerales no metálicos diversos (CNAE 23);519850;567802;64522;10821;4203;107317;7544;3492
-    231 Fabricación de vidrio y productos de vidrio (CNAE 23.1);117330;139928;6347;6951;2738;4483;0;1617
-    232 Fabricación de productos cerámicos refractarios;10380;33778;931;170;27;1612;0;4
-    233 Fabricación de productos cerámicos para la construcción (CNAE 23.3);106552;266685;4499;22;96;1555;951;56
-    234 Fabricación de otros productos cerámicos;5584;6005;111;0;74;508;0;0
-    235 Fabricación de cemento. cal  y yeso (CNAE 23.5);176302;28453;7853;2435;471;96957;6568;789
-    236 Fabricación de elementos de hormigón. cemento y yeso (CNAE 23.6);27128;6538;30149;71;302;646;25;396
-    237 Corte. tallado y acabado de la piedra (CNAE 23.7);33411;3994;11771;0;454;0;0;227
-    239 Fabricación de productos abrasivos y productos minerales no metálicos n.c.o.p (CNAE 23.9);43164;82422;2862;1172;41;1555;0;404
-    24 Metalurgia (CNAE 24);1106495;350751;14829;9346;8516;15560;319;71894
-    241 Fabricación de productos básicos de hierro. acero y ferroaleaciones (CNAE 24.1);544973;199260;6551;267;6802;3781;0;54952
-    242 Fabricación de tubos. tuberías. perfiles huecos y sus accesorios. de acero (CNAE 24.2);32984;14867;650;0;109;0;0;95
-    243 Fabricación de otros productos de primera transformación del acero (CNAE 24.3);13341;4345;1384;0;226;0;0;545
-    244 Producción de metales preciosos y de otros metales no férreos (CNAE 24.4);394479;112137;4577;9076;869;4433;319;14952
-    245 Fundición de metales (CNAE 24.5);120718;20140;1667;3;509;7346;0;1350
-    25 Fabricación de productos metálicos. excepto maquinaria y equipo (CNAE 25);288146;70799;44672;742;5981;38;138;5656
-    251 Fabricación de elementos metálicos para la construcción;37242;4555;23644;178;1694;0;13;864
-    252 Fabricación de cisternas. grandes depósitos y contenedores de metal (CNAE 25.2);7980;2107;3362;0;386;38;62;0
-    253 Fabricación de generadores de vapor. excepto calderas de calefacción central (CNAE 25.3);922;450;186;0;34;0;0;0
-    254 Fabricación de armas y municiones (CNAE 25.4);3165;644;320;383;8;0;0;5
-    255 Forja. estampación y embutición de metales metalurgia de polvos (CNAE 25.5);83452;13540;4508;102;770;0;2;2999
-    256 Tratamiento y revestimiento de metales ingeniería mecánica por cuenta de terceros;73045;27243;7593;0;1588;0;0;1708
-    257 Fabricación de artículos de cuchillería y cubertería. herramientas y ferretería (CNAE 25.7);17850;2192;1053;0;223;0;0;4
-    259 Fabricación de otros productos metálicos (CNAE 25.9);64490;20068;4005;79;1278;0;60;77
-    26 Fabricación de productos informáticos. electrónicos y ópticos;20486;534;1570;16;447;0;0;26
-    261 Fabricación de componentes electrónicos y circuitos impresos ensamblados (CNAE 26.1);9969;280;516;0;120;0;0;26
-    263 Fabricación de equipos de telecomunicaciones (CNAE 26.3);3754;30;354;0;149;0;0;0
-    264 Fabricación de productos electrónicos de consumo (CNAE 26.4);995;2;15;0;0;0;0;0
-    265 Fabricación de instrumentos y aparatos de medida. verificación y navegación fabricación de relojes (CNAE 26.5);3599;50;605;16;132;0;0;0
-    266 Fabricación de equipos de radiación. electromédicos y electroterapéuticos;1148;76;23;0;35;0;0;0
-    267 Fabricación de instrumentos de óptica y equipo fotográfico;676;0;0;0;0;0;0;0
-    27 Fabricación de material y equipo eléctrico;120778;19411;10390;89;874;0;33;85
-    271  Fabricación de motores. generadores y transformadores eléctricos. y de aparatos de distribución y control eléctrico (CNAE 27.1);26341;4759;2641;2;695;0;0;39
-    272 Fabricación de pilas y acumuladores eléctricos;13583;1524;0;0;0;0;0;35
-    273 Fabricación de cables y dispositivos de cableado (CNAE 27.3);26050;1787;886;0;10;0;0;0
-    274 Fabricación de lámparas y aparatos eléctricos de iluminación (CNAE 27.4);13913;1346;1212;0;98;0;0;0
-    275 Fabricación de aparatos domésticos (CNAE 27.5);14693;2179;1021;87;71;0;33;0
-    279 Fabricación de otro material y equipo eléctrico;26197;7815;4630;0;0;0;0;10
-    28 Maquinaria y equipo mecánico (CNAE 28);84622;16150;18734;200;1835;0;840;473
-    281 Fabricación de maquinaria de uso general (CNAE 28.1);23832;3838;1259;197;169;0;756;19
-    282 Fabricación de otra maquinaria de uso general (CNAE 28.2);27529;6319;9592;0;561;0;69;124
-    283 Fabricación de maquinaria agraria y forestal (CNAE 28.3);6938;1920;2738;0;325;0;0;0
-    284 Fabricación de máquinas-herramienta (CNAE 28.4);6235;810;928;0;430;0;0;2
-    289 Fabricación de otra maquinaria para usos específicos (CNAE 28.9);20087;3263;4217;3;351;0;15;328
-    29 Vehículos de motor. remolques y semiremolques (CNAE 29);348451;94918;7922;570;2097;0;0;1725
-    291 Fabricación de vehículos de motor (CNAE 29.1);143276;60254;860;154;434;0;0;33
-    292 Fabricación de carrocerías para vehículos de motor y de remolques y semirremolques (CNAE 29.2);5682;1086;2447;0;273;0;0;0
-    293 Fabricación de componentes. piezas y accesorios para vehículos de motor (CNAE 29.3);199494;33578;4614;416;1390;0;0;1692
-    30 Material de transporte. excepto vehículos de motor (CNAE 30);67990;12762;3499;198;7938;0;12;1398
-    301 Construcción naval (CNAE 30.1);16781;1861;1782;183;239;0;0;382
-    302 Fabricación de locomotoras y material ferroviario (CNAE 30.2);9522;3147;450;15;44;0;0;498
-    303 Construcción aeronáutica y espacial y su maquinaria;39600;7203;1089;0;7624;0;12;453
-    31 Fabricación de muebles (CNAE 31);37995;3975;14477;144;1519;0;197;454
-    310 Fabricación de muebles;37995;3975;14477;144;1519;0;197;454
-    32 Otras industrias manufactureras;21722;1588;2051;13;194;0;26;109
-    321 Fabricación de artículos de joyería. bisutería y similares (CNAE 32.1);1712;159;68;0;23;0;0;0
-    322 Fabricación de instrumentos musicales;435;31;15;0;0;0;0;0
-    323 Fabricación de artículos de deporte;1528;198;341;0;0;0;0;0
-    324 Fabricación de juegos y juguetes;2817;84;251;0;18;0;0;0
-    325 Fabricación de instrumentos y suministros médicos y odontológicos (CNAE 32.5);10609;809;549;13;120;0;26;109
-    329 Industrias manufactureras n.c.o.p.;4623;307;827;0;33;0;0;0
-    33 Reparación e instalación de maquinaria y equipo (CNAE 33);20532;3553;19981;571;2333;0;8;1146
-    331 Reparación de productos metálicos. maquinaria y equipo (CNAE 33.1);18476;3007;16043;195;1546;0;0;702
-    332 Instalación de máquinas y equipos industriales (CNAE 33.2);2055;546;3938;376;787;0;8;443
+﻿2017,Electricidad,Gas,Gasóleo,Fueloil,Otros productos petrolíferos,Carbón y coque,Biocombustibles,Calor y otros consumos energéticos
+    B Industrias extractivas,119484,31896,78123,1408,1836,6113,410,190
+    05 Extracción de antracita. hulla y lignito,9945,9069,6554,0,16,0,0,0
+    06 Extracción de crudo de petróleo y gas natural,2855,0,0,0,0,0,0,0
+    061 Extracción de crudo de petróleo,2855,0,0,0,0,0,0,0
+    07 Extracción de minerales metálicos,36569,1207,6604,0,106,6113,0,86
+    08 Otras industrias extractivas,70080,21611,60281,1408,755,0,410,103
+    081 Extracción de piedra. arena y arcilla,27119,6650,41174,1408,444,0,0,14
+    089 Industrias extractivas n.c.o.p.,42961,14961,19107,0,311,0,410,89
+    09 Actividades de apoyo a las industrias extractivas,36,9,4684,0,959,0,0,0
+    C Industria manufacturera,6107975,2949778,509048,84570,105026,145410,27500,353573
+    10 Alimentación (CNAE 10),963764,432274,164720,14613,12889,73,6211,19119
+    101 Industria cárnica (CNAE 10.1),249783,56530,52987,1365,3930,43,1281,9866
+    102 Industria del pescado (CNAE 10.2),46549,7220,6223,3569,1458,0,376,927
+    103 Preparación y conservación de frutas y hortalizas (CNAE 10.3),117643,68121,14444,243,580,0,2320,2230
+    104 Aceites y grasas (CNAE 10.4),54611,38918,4776,3615,883,0,0,150
+    105 Productos lácteos (CNAE 10.5),103556,57096,16335,2237,1125,20,804,1886
+    106 Molinerías. almidones y productos amiláceos (CNAE 10.6),50575,27706,6026,261,132,0,207,67
+    107 Panadería y pastas alimenticias (CNAE 10.7),140379,37635,31914,225,626,0,516,503
+    108 Fabricación de otros productos alimenticios,121818,92754,12495,862,2755,0,541,3409
+    109 Comida para animales (CNAE 10.9),78849,46294,19520,2236,1399,11,165,81
+    11 Fabricación de bebidas,129331,52084,15076,20149,3148,0,482,983
+    110 Fabricación de bebidas,129331,52084,15076,20149,3148,0,482,983
+    12 Industria del tabaco (CNAE 12),2753,213,84,408,145,0,0,0
+    120 Industria del tabaco,2753,213,84,408,145,0,0,0
+    13 Industria textil,95124,41427,7802,449,582,0,136,93
+    131 Preparación e hilado de fibras textiles (CNAE 13.1),25228,2855,1602,86,90,0,128,2
+    132 Fabricación de tejidos textiles (CNAE 13.2),13657,5079,346,59,226,0,7,0
+    133 Acabado de textiles (CNAE 13.3),18083,26343,813,60,48,0,0,0
+    139 Fabricación de otros productos textiles,38156,7150,5041,244,218,0,0,91
+    14 Confección de prendas de vestir,16251,1440,3244,0,73,0,0,7
+    141 Confección de prendas de vestir (CNAE 14.1),12260,305,2895,0,58,0,0,0
+    143 Confección de prendas de vestir de punto (CNAE 14.3),3991,1136,350,0,15,0,0,7
+    15 Industria del cuero y del calzado,19343,5396,4274,427,226,0,3,0
+    151 Fabricación de cuero. pieles y productos elaborados con éstos (CNAE 15.1),9058,4448,610,427,61,0,3,0
+    152 Fabricación de calzado (CNAE 15.2),10286,949,3664,0,165,0,0,0
+    16 Madera y corcho (CNAE 16),111389,10328,22203,8314,667,0,5324,548
+    161 Aserrado y cepillado de la madera,9486,7,6225,458,66,0,13,0
+    162 Fabricación de productos de madera. corcho. cestería y espartería,101903,10320,15978,7856,600,0,5311,548
+    17 Industria del papel,422116,157615,19575,8891,888,277,5084,5880
+    171 Fabricación de pasta papelera. papel y cartón (CNAE 17.1),259834,92111,3570,7775,79,0,4790,5768
+    172 Fabricación de artículos de papel y cartón (CNAE 17.2),162282,65504,16006,1116,809,277,294,112
+    18 Artes gráficas y reproducción de soportes grabados (CNAE 18),66292,11577,5012,45,513,0,0,0
+    181 Artes gráficas y servicios relacionados con las mismas,65561,11577,5012,45,513,0,0,0
+    182 Reproducción de soportes grabados,732,0,0,0,0,0,0,0
+    19 Coquerías y refino de petróleo,278703,412349,589,0,3,0,0,93683
+    20 Industria química (CNAE 20),879340,591474,39504,3576,42936,22144,332,130049
+    201 Fabricación de productos químicos básicos (CNAE 20.1),725734,485432,17864,3240,35483,22135,332,121746
+    202 Fabricación de pesticidas y otros productos agroquímicos (CNAE 20.2),4106,1029,687,1,218,10,0,41
+    203 Pinturas. barnices. tintas de imprenta y masillas (CNAE 20.3),43699,42748,3234,316,1881,0,0,6467
+    204 Artículos de limpieza y abrillantamiento. perfumes y cosméticos (CNAE 20.4),38055,13989,6935,17,5168,0,0,306
+    205 Fabricación de otros productos químicos (CNAE 20.5),50135,35204,10701,0,187,0,0,883
+    206 Fabricación de fibras artificiales y sintéticas (CNAE 20.6),17610,13072,83,0,0,0,0,606
+    21 Industria farmacéutica (CNAE 21),99010,29609,8915,3463,1295,0,12,2645
+    211 Fabricación de productos farmacéuticos de base (CNAE 21.1),33082,13059,2457,2340,56,0,0,2276
+    212 Fabricación de especialidades farmacéuticas (CNAE 21.2),65928,16549,6458,1123,1240,0,12,370
+    22 Caucho y materias plásticas (CNAE 22),387493,61751,15403,1525,5724,0,798,14107
+    221 Fabricación de productos de caucho (CNAE 22.1),78152,13334,2421,783,2677,0,214,12917
+    222 Fabricación de productos de plástico (CNAE 22.2),309342,48417,12982,742,3047,0,584,1190
+    23 Productos minerales no metálicos diversos (CNAE 23),519850,567802,64522,10821,4203,107317,7544,3492
+    231 Fabricación de vidrio y productos de vidrio (CNAE 23.1),117330,139928,6347,6951,2738,4483,0,1617
+    232 Fabricación de productos cerámicos refractarios,10380,33778,931,170,27,1612,0,4
+    233 Fabricación de productos cerámicos para la construcción (CNAE 23.3),106552,266685,4499,22,96,1555,951,56
+    234 Fabricación de otros productos cerámicos,5584,6005,111,0,74,508,0,0
+    235 Fabricación de cemento. cal  y yeso (CNAE 23.5),176302,28453,7853,2435,471,96957,6568,789
+    236 Fabricación de elementos de hormigón. cemento y yeso (CNAE 23.6),27128,6538,30149,71,302,646,25,396
+    237 Corte. tallado y acabado de la piedra (CNAE 23.7),33411,3994,11771,0,454,0,0,227
+    239 Fabricación de productos abrasivos y productos minerales no metálicos n.c.o.p (CNAE 23.9),43164,82422,2862,1172,41,1555,0,404
+    24 Metalurgia (CNAE 24),1106495,350751,14829,9346,8516,15560,319,71894
+    241 Fabricación de productos básicos de hierro. acero y ferroaleaciones (CNAE 24.1),544973,199260,6551,267,6802,3781,0,54952
+    242 Fabricación de tubos. tuberías. perfiles huecos y sus accesorios. de acero (CNAE 24.2),32984,14867,650,0,109,0,0,95
+    243 Fabricación de otros productos de primera transformación del acero (CNAE 24.3),13341,4345,1384,0,226,0,0,545
+    244 Producción de metales preciosos y de otros metales no férreos (CNAE 24.4),394479,112137,4577,9076,869,4433,319,14952
+    245 Fundición de metales (CNAE 24.5),120718,20140,1667,3,509,7346,0,1350
+    25 Fabricación de productos metálicos. excepto maquinaria y equipo (CNAE 25),288146,70799,44672,742,5981,38,138,5656
+    251 Fabricación de elementos metálicos para la construcción,37242,4555,23644,178,1694,0,13,864
+    252 Fabricación de cisternas. grandes depósitos y contenedores de metal (CNAE 25.2),7980,2107,3362,0,386,38,62,0
+    253 Fabricación de generadores de vapor. excepto calderas de calefacción central (CNAE 25.3),922,450,186,0,34,0,0,0
+    254 Fabricación de armas y municiones (CNAE 25.4),3165,644,320,383,8,0,0,5
+    255 Forja. estampación y embutición de metales metalurgia de polvos (CNAE 25.5),83452,13540,4508,102,770,0,2,2999
+    256 Tratamiento y revestimiento de metales ingeniería mecánica por cuenta de terceros,73045,27243,7593,0,1588,0,0,1708
+    257 Fabricación de artículos de cuchillería y cubertería. herramientas y ferretería (CNAE 25.7),17850,2192,1053,0,223,0,0,4
+    259 Fabricación de otros productos metálicos (CNAE 25.9),64490,20068,4005,79,1278,0,60,77
+    26 Fabricación de productos informáticos. electrónicos y ópticos,20486,534,1570,16,447,0,0,26
+    261 Fabricación de componentes electrónicos y circuitos impresos ensamblados (CNAE 26.1),9969,280,516,0,120,0,0,26
+    263 Fabricación de equipos de telecomunicaciones (CNAE 26.3),3754,30,354,0,149,0,0,0
+    264 Fabricación de productos electrónicos de consumo (CNAE 26.4),995,2,15,0,0,0,0,0
+    265 Fabricación de instrumentos y aparatos de medida. verificación y navegación fabricación de relojes (CNAE 26.5),3599,50,605,16,132,0,0,0
+    266 Fabricación de equipos de radiación. electromédicos y electroterapéuticos,1148,76,23,0,35,0,0,0
+    267 Fabricación de instrumentos de óptica y equipo fotográfico,676,0,0,0,0,0,0,0
+    27 Fabricación de material y equipo eléctrico,120778,19411,10390,89,874,0,33,85
+    271  Fabricación de motores. generadores y transformadores eléctricos. y de aparatos de distribución y control eléctrico (CNAE 27.1),26341,4759,2641,2,695,0,0,39
+    272 Fabricación de pilas y acumuladores eléctricos,13583,1524,0,0,0,0,0,35
+    273 Fabricación de cables y dispositivos de cableado (CNAE 27.3),26050,1787,886,0,10,0,0,0
+    274 Fabricación de lámparas y aparatos eléctricos de iluminación (CNAE 27.4),13913,1346,1212,0,98,0,0,0
+    275 Fabricación de aparatos domésticos (CNAE 27.5),14693,2179,1021,87,71,0,33,0
+    279 Fabricación de otro material y equipo eléctrico,26197,7815,4630,0,0,0,0,10
+    28 Maquinaria y equipo mecánico (CNAE 28),84622,16150,18734,200,1835,0,840,473
+    281 Fabricación de maquinaria de uso general (CNAE 28.1),23832,3838,1259,197,169,0,756,19
+    282 Fabricación de otra maquinaria de uso general (CNAE 28.2),27529,6319,9592,0,561,0,69,124
+    283 Fabricación de maquinaria agraria y forestal (CNAE 28.3),6938,1920,2738,0,325,0,0,0
+    284 Fabricación de máquinas-herramienta (CNAE 28.4),6235,810,928,0,430,0,0,2
+    289 Fabricación de otra maquinaria para usos específicos (CNAE 28.9),20087,3263,4217,3,351,0,15,328
+    29 Vehículos de motor. remolques y semiremolques (CNAE 29),348451,94918,7922,570,2097,0,0,1725
+    291 Fabricación de vehículos de motor (CNAE 29.1),143276,60254,860,154,434,0,0,33
+    292 Fabricación de carrocerías para vehículos de motor y de remolques y semirremolques (CNAE 29.2),5682,1086,2447,0,273,0,0,0
+    293 Fabricación de componentes. piezas y accesorios para vehículos de motor (CNAE 29.3),199494,33578,4614,416,1390,0,0,1692
+    30 Material de transporte. excepto vehículos de motor (CNAE 30),67990,12762,3499,198,7938,0,12,1398
+    301 Construcción naval (CNAE 30.1),16781,1861,1782,183,239,0,0,382
+    302 Fabricación de locomotoras y material ferroviario (CNAE 30.2),9522,3147,450,15,44,0,0,498
+    303 Construcción aeronáutica y espacial y su maquinaria,39600,7203,1089,0,7624,0,12,453
+    31 Fabricación de muebles (CNAE 31),37995,3975,14477,144,1519,0,197,454
+    310 Fabricación de muebles,37995,3975,14477,144,1519,0,197,454
+    32 Otras industrias manufactureras,21722,1588,2051,13,194,0,26,109
+    321 Fabricación de artículos de joyería. bisutería y similares (CNAE 32.1),1712,159,68,0,23,0,0,0
+    322 Fabricación de instrumentos musicales,435,31,15,0,0,0,0,0
+    323 Fabricación de artículos de deporte,1528,198,341,0,0,0,0,0
+    324 Fabricación de juegos y juguetes,2817,84,251,0,18,0,0,0
+    325 Fabricación de instrumentos y suministros médicos y odontológicos (CNAE 32.5),10609,809,549,13,120,0,26,109
+    329 Industrias manufactureras n.c.o.p.,4623,307,827,0,33,0,0,0
+    33 Reparación e instalación de maquinaria y equipo (CNAE 33),20532,3553,19981,571,2333,0,8,1146
+    331 Reparación de productos metálicos. maquinaria y equipo (CNAE 33.1),18476,3007,16043,195,1546,0,0,702
+    332 Instalación de máquinas y equipos industriales (CNAE 33.2),2055,546,3938,376,787,0,8,443
