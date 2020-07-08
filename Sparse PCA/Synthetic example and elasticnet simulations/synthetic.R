@@ -32,7 +32,7 @@ for(i in 2:10){
   axis(side = 1, at = 1:10, labels = paste0('PC', 1:10))
   legend("bottomright", title = TeX("Lasso $\\lambda$"), legend = lambdas, col = 1:6, lty = 1)
 
-# library('xtable')
+# library(xtable)
 # xtable(x = cbind(eigen$vectors[, 1:2], spca$lambda0.1$loadings[, 1:2], spca$lambda1$loadings[, 1:2], spca$lambda10$loadings[, 1:2],
 #        spca$lambda100$loadings[, 1:2], spca$lambda1000$loadings[, 1:2]))
 # 
@@ -49,5 +49,5 @@ for(i in 2:10){
 # matriz_epsilon <- mvtnorm::rmvnorm(n = n, sigma = diag(x = 1, nrow = 10, ncol = 10))
 # X <- matriz_V + matriz_epsilon
 # cov <- t(X) %*% X / n
-# rownames(cov) <- paste('X', 1:10, sep = '')
+# rownames(cov) <- paste0("X", 1:10)
 # colnames(cov) <- rownames(cov)
