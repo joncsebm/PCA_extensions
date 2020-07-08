@@ -32,7 +32,7 @@ Sigma <- matrix(data = c(sigma_x ^ 2, sigma_x * sigma_y * rho, sigma_x * sigma_y
   angle_PC1_lasso <- round(angle_PC1_lasso, digits = 5)
   angle_PC2_lasso <- round(angle_PC2_lasso, digits = 5)
   
-# spca varying ridge penalty
+# SPCA varying ridge penalty
   library(elasticnet)
   results_ridge <- matrix(ncol = 3, nrow = 2 * length(1:300))
   for(i in 1:300){
@@ -59,12 +59,12 @@ Sigma <- matrix(data = c(sigma_x ^ 2, sigma_x * sigma_y * rho, sigma_x * sigma_y
   names(data_frame) <- c("Penalisation", "PC1_lasso", "PC1_ridge", "PC2_lasso", "PC2_ridge")
 
   plot(x = data_frame$Penalisation, y = abs(angle_PC1 - data_frame$PC1_lasso), type = "l", xlab = expression(lambda),
-       ylab = "Absolute angular error (บ)", ylim = c(0, 10), main = "Angular error with lasso penalty", col = "red")
+       ylab = "Absolute angular error (ยบ)", ylim = c(0, 10), main = "Angular error with lasso penalty", col = "red")
   
   lines(x = data_frame$Penalisation, y = abs(angle_PC2 - ifelse(data_frame$PC2_lasso != 90, data_frame$PC2_lasso, -data_frame$PC2_lasso)), col = "blue")
   legend("bottomright", legend = c("PC1", "PC2"), col = c("red", "blue"), lty = 1)
   
   plot(x = data_frame$Penalisation, y = abs(angle_PC1 - data_frame$PC1_ridge), type = "l", xlab = expression(lambda),
-       ylab = "Absolute angular error (บ)", ylim = c(-0.1, 0.1), main = "Angular error with ridge penalty", col = "red")
+       ylab = "Absolute angular error (ยบ)", ylim = c(-0.1, 0.1), main = "Angular error with ridge penalty", col = "red")
   lines(x = data_frame$Penalisation, y = abs(angle_PC2 - data_frame$PC2_ridge), col = "blue")
   legend("bottomright", legend = c("PC1", "PC2"), col = c("red", "blue"), lty = 1)
