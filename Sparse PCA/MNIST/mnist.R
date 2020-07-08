@@ -16,6 +16,33 @@ show_pca <- function(pca, k = 1, lambda = 0, col = gray(12:1 / 12), ...){
         col = col, zlim = c(0, 1), xaxt = "n", yaxt = "n", ann = FALSE, ...)
 }
 
+# Code for PCA and SPCA computation (not required, results are provided)
+
+# Classic PCA analysis
+
+pca_MNIST <- list()
+for(i in c(2, 5, 8)){
+    pca_MNIST[[paste0("n=", i)]] <- princomp(x = MNIST$x[MNIST$labels == i, ], cor = FALSE)
+}
+
+# Covariance estimation of the data set to speed up elasticnet computations
+
+covariance_matrices <- list()
+for(i in c(2, 5, 8)){
+    covariance_matrices[[paste0('n=', i)]] <- cov(x = MNIST$x[MNIST$labels == i, ])
+}
+
+# SCPA from elasticnet (for digits 2, 5 and 8; for others modify the code)
+
+library(elasticnet)
+spca_MNIST <- list()
+spca_MNIST[["n=2"]] <- spca(x = covariance_matrices[['n=2']], K = 1, para = 1e-1, type = 'Gram', sparse = 'penalty')
+spca_MNIST[["n=2"]]$center <- pca_MNIST[['n=2']]$center
+spca_MNIST[["n=5"]] <- spca(x = covariance_matrices[['n=5']], K = 1, para = 1e-1, type = 'Gram', sparse = 'penalty')
+spca_MNIST[["n=5"]]$center <- pca_MNIST[['n=5']]$center
+spca_MNIST[["n=8"]] <- spca(x = covariance_matrices[['n=8']], K = 1, para = 1e-1, type = 'Gram', sparse = 'penalty')
+spca_MNIST[["n=8"]]$center <- pca_MNIST[['n=8']]$center
+
 # Show an example for each digit
 
   par(mfrow = c(2, 5), mar = rep(0, 4))
@@ -76,30 +103,3 @@ load('prin_comp_analysis.RData')
 # }
 # dev.off()
 # image_write(image_animate(k_1, fps = 4, optimize = TRUE), 'k_1.gif')
-
-# # Code for PCA and SPCA computation (not required, results are provided)
-# 
-# # Classic PCA analysis
-# 
-# pca_MNIST <- list()
-# for(i in 0:9){
-#   pca_MNIST[[paste0("n=", i)]] <- princomp(x = MNIST$x[MNIST$labels == i, ], cor = FALSE)
-# }
-# 
-# # Covariance estimation of the data set to speed up elasticnet computations
-# 
-# covariance_matrices <- list()
-# for(i in 0:9){
-#   covariance_matrices[[paste0('n=', i)]] <- cov(x = MNIST$x[MNIST$labels == i, ])
-# }
-# 
-# # SCPA from elasticnet (only one component is computed, change K to compute more)
-# 
-# library('elasticnet')
-# spca_MNIST <- list()
-# spca_MNIST[['n=2']] <- spca(x = covariance_matrices[['n=2']], K = 1, para = 1e-1, type = 'Gram', sparse = 'penalty')
-# spca_MNIST[['n=2']]$center <- pca_MNIST[['n=2']]$center
-# spca_MNIST[['n=5']] <- spca(x = covariance_matrices[['n=5']], K = 1, para = 1e-1, type = 'Gram', sparse = 'penalty')
-# spca_MNIST[['n=5']]$center <- pca_MNIST[['n=5']]$center
-# spca_MNIST[['n=8']] <- spca(x = covariance_matrices[['n=8']], K = 1, para = 1e-1, type = 'Gram', sparse = 'penalty')
-# spca_MNIST[['n=8']]$center <- pca_MNIST[['n=8']]$center
