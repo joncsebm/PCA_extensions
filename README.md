@@ -10,7 +10,10 @@ First folder contains scripts used to introduce basic statistical concepts and t
 # Sparse PCA
 In the second place, we introduce Sparse PCA (SPCA) which aims to obtain sparse directions on which project the data favouring the analysis interpretability. We perform several numerical experiments and analyze two real data sets, showing the benefits of the extension.
 
+Animation for ridge regression penalty
 ![Ridge regression penalty](https://github.com/joncsebm/PCA_extensions/blob/master/Sparse%20PCA/SPCA%20theorems%20illustration/ridge.gif)
+Animation for the lasso regression penalty
+![Lasso regression penalty](https://github.com/joncsebm/PCA_extensions/blob/master/Sparse%20PCA/SPCA%20theorems%20illustration/lasso.gif)
 # Dynamic PCA
 Lastly, Dynamic PCA (DPCA) is presented as a way of applying PCA to time series. We show how the projected information can be retrieved and we do several numerical examples with simulated and real data.
 
