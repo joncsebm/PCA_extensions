@@ -12,6 +12,7 @@ In the second place, we introduce Sparse PCA (SPCA) which aims to obtain sparse 
 
 Animation for ridge regression penalty
 ![Ridge regression penalty](https://github.com/joncsebm/PCA_extensions/blob/master/Sparse%20PCA/SPCA%20theorems%20illustration/ridge.gif)
+
 Animation for the lasso regression penalty
 ![Lasso regression penalty](https://github.com/joncsebm/PCA_extensions/blob/master/Sparse%20PCA/SPCA%20theorems%20illustration/lasso.gif)
 # Dynamic PCA
